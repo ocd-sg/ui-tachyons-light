@@ -21,11 +21,11 @@
   "homepage": "https://github.com/ocd-sg/ui-tachyons-dark#readme",
   "devDependencies": {
     "live-server": "^1.2.0",
-    "postcss": "^6.0.13",
-    "postcss-cli": "^4.1.1",
-    "postcss-cssnext": "^3.0.2",
-    "postcss-import": "^11.0.0",
-    "tachyons": "^4.8.1",
+    "postcss": "^7.0.5",
+    "postcss-cli": "^6.0.1",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-import": "^12.0.1",
+    "tachyons": "^4.11.1",
     "tachyons-svg": "^1.0.1"
   }
 }
